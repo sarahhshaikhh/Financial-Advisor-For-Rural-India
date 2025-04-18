@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorBackground">#E0E0E0</color>
+    <color name="textColor">#333333</color>
+
+    <color name="lightPink">#FFB6C1</color> <!-- Light Pink -->
+    <color name="hotPink">#FF69B4</color> <!-- Hot Pink -->
+    <color name="deepPink">#FF1493</color> <!-- Deep Pink -->
+    <color name="paleVioletRed">#DB7093</color> <!-- Pale Violet Red -->
+    <color name="mediumVioletRed">#C71585</color> <!-- Medium Violet Red -->
+    <color name="pink">#FFC0CB</color> <!-- Pink -->
+    <color name="lightHotPink">#FF77FF</color> <!-- Light Hot Pink -->
+    <color name="orchidPink">#F2B6C1</color> <!-- Orchid Pink -->
+    <color name="pastelPink">#FFD1DC</color> <!-- Pastel Pink -->
+    <color name="cherryBlossomPink">#FFB7C5</color> <!-- Cherry Blossom Pink -->
+
+
+    <color name="buttonBackground">#FFFFFF</color>
+
+    <color name="black_alpha_020">#33000000</color>
+    <color name="white_alpha_060">#99FFFFFF</color>
+
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_50_bit_black">#E4F0F5</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_a100">#82B1FF</color>
+    <color name="blue_navdhan">#061e96</color>
+
+    <color name="blue_black_3_3">#072451</color>
+    <color name="blue_black_3_3_bit_black">#031228</color>
+    <color name="blue_white_5_6">#FAFDFF</color>
+    <color name="blue_black_5_6">#061929</color>
+    <color name="blue_black_10_2">#CEDCE6</color>
+    <color name="blue500_black_5_6">#26282A</color>
+
+    <color name="blue_50_alpha_060">#99E3F2FD</color>
+
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+
+    <color name="amber_100">#FFECB3</color>
+    <color name="amber_700">#FFA000</color>
+    <color name="amber_black_3_4">#401C00</color>
+
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_black_2_3">#3D0909</color>
+    <color name="red_900">#B71C1C</color>
+<color name="transperent">#00000000</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+</resources>

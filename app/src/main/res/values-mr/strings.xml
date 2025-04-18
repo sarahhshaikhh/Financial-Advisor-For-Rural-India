@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">नवधन</string>
+    <string name="openDrawer">ड्रॉवर उघडा</string>
+    <string name="closeDrawer">ड्रॉवर बंद करा</string>
+
+    <string name="login">लॉगिन</string>
+    <string name="signup">साइन अप</string>
+
+    <string name="mobile_number">मोबाईल नंबर</string>
+    <string name="enter_password">पासवर्ड टाका</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">तुमच्याकडे खाती नाही? साइन अप करा</string>
+    <string name="enter_name">तुमचे नाव टाका</string>
+    <string name="confirm_password">पासवर्डची पुष्टी करा</string>
+    <string name="verify_account">तुमचे खाते सत्यापित करा</string>
+    <string name="login_prompt">आधीच खाते आहे? लॉगिन करा</string>
+    <string name="enter_otp">ओटीपी टाका</string>
+    <string name="request_otp">ओटीपी मागवा</string>
+    <string name="verify_otp">ओटीपी सत्यापित करा</string>
+    <string name="dharmika_gajera">धार्मिक गजेरा</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="terms_and_privacy">अटी आणि गोपनीयता</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="navdhan_ai">नवधन एआय</string>
+    <string name="financial_education">आर्थिक शिक्षण</string>
+    <string name="goals">उद्दिष्टे</string>
+    <string name="savings_and_investment">बचत आणि गुंतवणूक</string>
+    <string name="government_schemes">सरकारी योजना</string>
+    <string name="rewards_and_progress">बक्षिसे आणि प्रगती</string>
+    <string name="mentor_connect">मेंटॉर कनेक्ट</string>
+
+
+</resources>

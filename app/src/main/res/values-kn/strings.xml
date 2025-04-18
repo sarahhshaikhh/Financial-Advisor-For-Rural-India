@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ನವಧನ್</string>
+    <string name="openDrawer">ಡ್ರಾವರ್ ತೆರೆಯಿರಿ</string>
+    <string name="closeDrawer">ಡ್ರಾವರ್ ಮುಚ್ಚಿ</string>
+
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="signup">ನೊಂದಣಿ</string>
+
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="enter_password">ಗುಪ್ತಪದ ನಮೂದಿಸಿ</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">ಖಾತೆ ಇಲ್ಲವೇ? ನೊಂದಣಿ ಮಾಡಿ</string>
+    <string name="enter_name">ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="confirm_password">ಗುಪ್ತಪದವನ್ನು ದೃಢೀಕರಿಸಿ</string>
+    <string name="verify_account">ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="login_prompt">ಖಾತೆ ಇದೆಯೇ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="enter_otp">OTP ನಮೂದಿಸಿ</string>
+    <string name="request_otp">OTP ವಿನಂತಿಸಿ</string>
+    <string name="verify_otp">OTP ಪರಿಶೀಲಿಸಿ</string>
+    <string name="dharmika_gajera">ಧಾರ್ಮಿಕಾ ಗಜೆರಾ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="terms_and_privacy">ನಿಯಮಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ</string>
+    <string name="logout">ಲಾಗ್ಔಟ್</string>
+    <string name="navdhan_ai">ನವಧನ್ AI</string>
+    <string name="financial_education">ಆರ್ಥಿಕ ಶಿಕ್ಷಣ</string>
+    <string name="goals">ಲಕ್ಷ್ಯಗಳು</string>
+    <string name="savings_and_investment">ಉಳಿತಾಯ ಮತ್ತು ಹೂಡಿಕೆ</string>
+    <string name="government_schemes">ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು</string>
+    <string name="rewards_and_progress">ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪ್ರಗತಿ</string>
+    <string name="mentor_connect">ಮೆಂಟರ್ ಸಂಪರ್ಕ</string>
+
+
+</resources>

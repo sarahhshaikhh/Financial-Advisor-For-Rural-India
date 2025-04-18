@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/baseline_manage_accounts_24"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/terms_privacy"
+        android:icon="@drawable/baseline_admin_panel_settings_24"
+        android:title="@string/terms_and_privacy"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/logout" />
+
+    <item
+        android:id="@+id/fab_chatbot"
+        android:icon="@drawable/chatbot"
+        android:title="@string/navdhan_ai">
+
+    </item>
+
+
+</menu>

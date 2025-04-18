@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">নবধন</string>
+    <string name="openDrawer">ড্রয়ার খুলুন</string>
+    <string name="closeDrawer">ড্রয়ার বন্ধ করুন</string>
+
+    <string name="login">লগইন করুন</string>
+    <string name="signup">সাইন আপ করুন</string>
+
+    <string name="mobile_number">মোবাইল নম্বর</string>
+    <string name="enter_password">পাসওয়ার্ড লিখুন</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">একটি অ্যাকাউন্ট নেই\? সাইন আপ করুন</string>
+    <string name="enter_name">আপনার নাম লিখুন</string>
+    <string name="confirm_password">পাসওয়ার্ড নিশ্চিত করুন</string>
+    <string name="verify_account">আপনার অ্যাকাউন্ট যাচাই করুন</string>
+    <string name="login_prompt">ইতিমধ্যে একটি অ্যাকাউন্ট আছে\? লগইন করুন</string>
+    <string name="enter_otp">OTP লিখুন</string>
+    <string name="request_otp">OTP অনুরোধ করুন</string>
+    <string name="verify_otp">OTP যাচাই করুন</string>
+    <string name="dharmika_gajera">ধর্মিকা গজেরা</string>
+    <string name="settings">সেটিংস</string>
+    <string name="terms_and_privacy">শর্তাবলী এবং গোপনীয়তা</string>
+    <string name="logout">লগআউট</string>
+    <string name="navdhan_ai">নবধন এআই</string>
+    <string name="financial_education">আর্থিক শিক্ষা</string>
+    <string name="goals">গোল</string>
+    <string name="savings_and_investment">সঞ্চয় এবং বিনিয়োগ</string>
+    <string name="government_schemes">সরকারী স্কিম</string>
+    <string name="rewards_and_progress">পুরস্কার এবং অগ্রগতি</string>
+    <string name="mentor_connect">মেন্টর কানেক্ট</string>
+
+
+</resources>

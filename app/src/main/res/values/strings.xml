@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NavDhan</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">Don\'t have an account? Sign Up</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="verify_account">Verify Your Account</string>
+    <string name="login_prompt">Already have an account? Login</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="dharmika_gajera">Dharmika Gajera</string>
+    <string name="settings">Settings</string>
+    <string name="terms_and_privacy">Terms and Privacy</string>
+    <string name="logout">Logout</string>
+    <string name="navdhan_ai">NavDhan AI</string>
+    <string name="financial_education">Financial Education</string>
+    <string name="goals">Goals</string>
+    <string name="savings_and_investment">Savings and Investment</string>
+    <string name="government_schemes">Government Schemes</string>
+    <string name="rewards_and_progress">Rewards and Progress</string>
+    <string name="mentor_connect">Mentor Connect</string>
+
+    <string name="agree_terms_privacy" tools:ignore="MissingTranslation">I agree to the Terms and Privacy</string>
+    <string name="enter_dob" tools:ignore="MissingTranslation">Enter DOB</string>
+</resources>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Terms of Use Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Terms of Use"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to NavDhan!"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="8dp" />
+
+        <!-- Subsections -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Your Responsibilities"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Accurate Information: You must provide correct details while registering and using the app.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Personal Use: The app is for personal educational purposes only. Misuse for illegal or unauthorized purposes is strictly prohibited.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Compliance with Laws: Users must comply with all local laws while using the app.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Access and Usage Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Access and Usage"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Users must be 18 years or older to access the app’s services.\n• The app's content is provided for informational purposes only and is not a substitute for professional financial advice.\n• NavDhan reserves the right to modify or terminate any features without prior notice.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Limitation of Liability Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Limitation of Liability"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• NavDhan is not responsible for financial decisions made based on the app’s content.\n• Users are encouraged to consult licensed financial advisors for critical decisions.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Termination Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Termination"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NavDhan reserves the right to terminate or restrict your access if you violate these terms.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Updates to Terms Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. Updates to Terms"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="These terms may change from time to time. It is your responsibility to review the updated terms.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Privacy Policy Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Privacy Policy"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your Privacy Matters to Us"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="8dp" />
+
+        <!-- Data We Collect -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Data We Collect"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Personal Information:\n  o Name\n  o Mobile number\n\n• Non-Personal Information:\n  o App usage statistics\n  o Interaction logs\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- How We Use Your Data -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. How We Use Your Data"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• To personalize your app experience and deliver content in your preferred language.\n• To improve app features and provide better service.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Data Sharing -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Data Sharing"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• We do not sell your data to third parties.\n• Data may be shared with authorized partners (e.g., SMS providers) to deliver services effectively.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Data Security -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Data Security"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• All personal data is encrypted and stored securely.\n• Regular audits ensure your data is protected.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Your Rights -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. Your Rights"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• You can request to:\n  o View your data.\n  o Delete your data from our systems.\n• Contact us at support@navdhan.com to exercise these rights.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Children’s Privacy -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. Children’s Privacy"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NavDhan is not intended for users under the age of 18. If you believe a child has provided us with personal information, please contact us.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Changes to Privacy Policy -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. Changes to Privacy Policy"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="We may update this policy. Changes will be communicated to you via the app or email.\n"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+
+        <!-- Contact Information -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Us"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email: support@navdhan.com\nPhone: +91-XXXXXXXXXX"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingTop="4dp" />
+    </LinearLayout>
+</ScrollView>

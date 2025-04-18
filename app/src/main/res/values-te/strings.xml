@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">నవధాన్</string>
+    <string name="openDrawer">డ్రాయర్ తెరవండి</string>
+    <string name="closeDrawer">డ్రాయర్‌ని మూసివేయండి</string>
+
+    <string name="login">లాగిన్ చేయండి</string>
+    <string name="signup">సైన్ అప్ చేయండి</string>
+
+    <string name="mobile_number">మొబైల్ నంబర్</string>
+    <string name="enter_password">పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">ఖాతా లేదా\? సైన్ అప్ చేయండి</string>
+    <string name="enter_name">మీ పేరును నమోదు చేయండి</string>
+    <string name="confirm_password">పాస్‌వర్డ్‌ని నిర్ధారించండి</string>
+    <string name="verify_account">మీ ఖాతాను ధృవీకరించండి</string>
+    <string name="login_prompt">ఇప్పటికే ఖాతా ఉందా\? లాగిన్ చేయండి</string>
+    <string name="enter_otp">OTPని నమోదు చేయండి</string>
+    <string name="request_otp">OTPని అభ్యర్థించండి</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="dharmika_gajera">ధార్మిక గజేర</string>
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="terms_and_privacy">నిబంధనలు మరియు గోప్యత</string>
+    <string name="logout">లాగ్అవుట్</string>
+    <string name="navdhan_ai">నవధాన్ AI</string>
+    <string name="financial_education">ఆర్థిక విద్య</string>
+    <string name="goals">లక్ష్యాలు</string>
+    <string name="savings_and_investment">పొదుపులు మరియు పెట్టుబడి</string>
+    <string name="government_schemes">ప్రభుత్వ పథకాలు</string>
+    <string name="rewards_and_progress">బహుమతులు మరియు పురోగతి</string>
+    <string name="mentor_connect">మెంటర్ కనెక్ట్</string>
+
+
+</resources>

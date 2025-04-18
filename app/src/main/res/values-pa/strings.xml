@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ਨਵਧਨ</string>
+    <string name="openDrawer">ਡ੍ਰਾਅਰ ਖੋਲ੍ਹੋ</string>
+    <string name="closeDrawer">ਡ੍ਰਾਅਰ ਬੰਦ ਕਰੋ</string>
+
+    <string name="login">ਲਾਗਿਨ</string>
+    <string name="signup">ਸਾਇਨ ਅਪ</string>
+
+    <string name="mobile_number">ਮੋਬਾਈਲ ਨੰਬਰ</string>
+    <string name="enter_password">ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ? ਸਾਇਨ ਅਪ ਕਰੋ</string>
+    <string name="enter_name">ਤੁਹਾਡਾ ਨਾਮ ਦਰਜ ਕਰੋ</string>
+    <string name="confirm_password">ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="verify_account">ਤੁਹਾਡਾ ਖਾਤਾ ਤਸਦੀਕ ਕਰੋ</string>
+    <string name="login_prompt">ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਲਾਗਿਨ ਕਰੋ</string>
+    <string name="enter_otp">ਓਟੀਪੀ ਦਰਜ ਕਰੋ</string>
+    <string name="request_otp">ਓਟੀਪੀ ਮੰਗੋ</string>
+    <string name="verify_otp">ਓਟੀਪੀ ਤਸਦੀਕ ਕਰੋ</string>
+    <string name="dharmika_gajera">ਧਾਰਮਿਕਾ ਗਜੇਰਾ</string>
+    <string name="settings">ਸੈਟਿੰਗਜ਼</string>
+    <string name="terms_and_privacy">ਸ਼ਰਤਾਂ ਅਤੇ ਗੋਪਨੀਯਤਾ</string>
+    <string name="logout">ਲਾਗਆਊਟ</string>
+    <string name="navdhan_ai">ਨਵਧਨ ਏਆਈ</string>
+    <string name="financial_education">ਵਿੱਤੀ ਸਿੱਖਿਆ</string>
+    <string name="goals">ਲੱਖੇ</string>
+    <string name="savings_and_investment">ਬਚਤ ਅਤੇ ਨਿਵੇਸ਼</string>
+    <string name="government_schemes">ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ</string>
+    <string name="rewards_and_progress">ਇਨਾਮ ਅਤੇ ਤਰੱਕੀ</string>
+    <string name="mentor_connect">ਮੈਂਟਰ ਕਨੇਕਟ</string>
+
+
+</resources>

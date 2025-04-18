@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_names">
+        <item>Assamese</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Telugu</item>
+        <item>Marathi</item>
+        <item>Tamil</item>
+        <item>Urdu</item>
+        <item>Gujarati</item>
+        <item>Punjabi</item>
+        <item>Malayalam</item>
+        <item>Odia</item>
+        <item>Kannada</item>
+
+    </string-array>
+</resources>

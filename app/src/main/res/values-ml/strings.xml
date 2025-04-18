@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NavDhan</string>
+    <string name="openDrawer">ഡ്രോയർ തുറക്കുക</string>
+    <string name="closeDrawer">ഡ്രോയർ അടയ്ക്കുക</string>
+
+    <string name="login">ലോഗിൻ</string>
+    <string name="signup">സൈൻ അപ്പ്</string>
+
+    <string name="mobile_number">മൊബൈൽ നമ്പർ</string>
+    <string name="enter_password">പാസ്‌വേഡ് നൽകുക</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">അക്കൗണ്ട് ഇല്ലേ? സൈൻ അപ്പ് ചെയ്യുക</string>
+    <string name="enter_name">നിങ്ങളുടെ പേര് നൽകുക</string>
+    <string name="confirm_password">പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക</string>
+    <string name="verify_account">നിങ്ങളുടെ അക്കൗണ്ട് പരിശോധിക്കുക</string>
+    <string name="login_prompt">ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടോ? ലോഗിൻ ചെയ്യുക</string>
+    <string name="enter_otp">OTP നൽകുക</string>
+    <string name="request_otp">OTP അഭ്യർത്ഥിക്കുക</string>
+    <string name="verify_otp">OTP പരിശോധിക്കുക</string>
+    <string name="dharmika_gajera">ധാർമിക ഗജേര</string>
+    <string name="settings">സെറ്റിംഗ്സ്</string>
+    <string name="terms_and_privacy">നിബന്ധനകളും സ്വകാര്യതയും</string>
+    <string name="logout">ലോഗ്ഔട്ട്</string>
+    <string name="navdhan_ai">NavDhan AI</string>
+    <string name="financial_education">ഫിനാൻഷ്യൽ എജുക്കേഷൻ</string>
+    <string name="goals">ലക്ഷ്യങ്ങൾ</string>
+    <string name="savings_and_investment">സേവിങ്സ് and ഇൻവെസ്റ്റ്‌മെന്റ്</string>
+    <string name="government_schemes">സർക്കാർ പദ്ധതികൾ</string>
+    <string name="rewards_and_progress">പുരസ്‌കാരങ്ങളും പുരോഗതിയും</string>
+    <string name="mentor_connect">മെന്റർ കണക്റ്റ്</string>
+
+
+</resources>

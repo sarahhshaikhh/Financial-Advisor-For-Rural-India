@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">நவ்தன்</string>
+    <string name="openDrawer">டிராயரை திறக்க</string>
+    <string name="closeDrawer">டிராயரை மூடுக</string>
+
+    <string name="login">உள் நுழை</string>
+    <string name="signup">பதிவு செய்யவும்</string>
+
+    <string name="mobile_number">மொபைல் எண்</string>
+    <string name="enter_password">கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">கணக்கு இல்லையா? பதிவு செய்யவும்</string>
+    <string name="enter_name">உங்கள் பெயரை உள்ளிடவும்</string>
+    <string name="confirm_password">கடவுச்சொல்லை உறுதிப்படுத்தவும்</string>
+    <string name="verify_account">உங்கள் கணக்கை சரிபார்க்கவும்</string>
+    <string name="login_prompt">ஏற்கனவே கணக்கு உள்ளதா? உள் நுழையவும்</string>
+    <string name="enter_otp">OTP ஐ உள்ளிடவும்</string>
+    <string name="request_otp">OTP கோருக</string>
+    <string name="verify_otp">OTP ஐ சரிபார்க்கவும்</string>
+    <string name="dharmika_gajera">தர்மிகா கஜேரா</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="terms_and_privacy">விதிமுறைகள் மற்றும் தனியுரிமை</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="navdhan_ai">நவ்தன் ஏஐ</string>
+    <string name="financial_education">நிதி கல்வி</string>
+    <string name="goals">நோக்கங்கள்</string>
+    <string name="savings_and_investment">சேமிப்பு மற்றும் முதலீடு</string>
+    <string name="government_schemes">அரசு திட்டங்கள்</string>
+    <string name="rewards_and_progress">முதலில்சிதறும் மற்றும் முன்னேற்றம்</string>
+    <string name="mentor_connect">சான்றோர் இணைப்பு</string>
+
+
+</resources>

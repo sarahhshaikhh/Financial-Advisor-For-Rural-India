@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">नवधन</string>
+    <string name="openDrawer">दराज खोलें</string>
+    <string name="closeDrawer">दराज बंद करें</string>
+
+    <string name="login">लॉग इन करें</string>
+    <string name="signup">साइन अप करें</string>
+
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="signup_prompt" tools:ignore="StringEscaping">कोई खाता नहीं है\? साइन अप करें</string>
+    <string name="enter_name">अपना नाम दर्ज करें</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="verify_account">अपने खाते को सत्यापित करें</string>
+    <string name="login_prompt">क्या आपके पास पहले से एक खाता मौजूद है\? लॉग इन करें</string>
+    <string name="enter_otp">ओटीपी दर्ज करें</string>
+    <string name="request_otp">ओटीपी का अनुरोध करें</string>
+    <string name="verify_otp">ओटीपी सत्यापित करें</string>
+    <string name="dharmika_gajera">Dharmika Gajera</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="terms_and_privacy">शर्तें और गोपनीयता</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="navdhan_ai">NavDhan AI</string>
+    <string name="financial_education">वित्तीय शिक्षा</string>
+    <string name="goals">लक्ष्य</string>
+    <string name="savings_and_investment">बचत और निवेश</string>
+    <string name="government_schemes">सरकारी योजनाएं</string>
+    <string name="rewards_and_progress">पुरस्कार और प्रगति</string>
+    <string name="mentor_connect">मेंटर कनेक्ट</string>
+
+    <string name="agree_terms_privacy">मैं शर्तों और गोपनीयता से सहमत हूँ</string>
+    <string name="enter_dob">जन्म तिथि दर्ज करें</string>
+
+
+
+
+</resources>
